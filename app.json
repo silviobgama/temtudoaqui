@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "temtudoaqui",
+    "slug": "temtudoaqui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

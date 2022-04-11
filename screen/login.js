@@ -35,6 +35,13 @@ export default function Login({navigation}) {
         leftIcon={{ type: 'font-awesome', name: 'envelope', size:20 }}
         onChangeText={value => { setEmail(value) }}
       />
+        <Input      
+        placeholder='senha'
+        keyboardType='default'
+        secureTextEntry={true}
+        leftIcon={{ type: 'font-awesome', name: 'lock', size:30 }}
+        onChangeText={value => { setPassword(value) }}
+      />
 
       </View>
       

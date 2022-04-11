@@ -12,6 +12,8 @@ const styles = StyleSheet.create({
     width: '90%',
   },
   btnLogin: {
+    // width: "100%",
+    // marginTop: 10,
     marginBottom: 20,
   },
   maskedInput: {
